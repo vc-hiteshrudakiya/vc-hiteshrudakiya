@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Hitesh Rudakiya 👋
 
-<!--
-**vc-hiteshrudakiya/vc-hiteshrudakiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Software Engineer focused on Laravel development and building clean, maintainable web applications.
 
-Here are some ideas to get you started:
+## 🚀 Laravel Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work primarily with Laravel and PHP to develop, enhance, and maintain web applications. I focus on writing structured, reliable, and maintainable code while continuously improving application functionality and performance.
+
+## 🛠 Tech Stack
+
+* PHP
+* Laravel
+* MySQL
+* Laravel Queues & Jobs
+* Git & GitHub
+* Postman
+
+## 📦 Open Source
+
+Interested in building and contributing to open-source projects, especially Laravel packages and developer-focused tools.
+
+## 🎯 Development Approach
+
+I focus on writing code that is:
+
+* Clean and maintainable
+* Well structured
+* Scalable
+* Easy to understand
+* Practical for real-world applications
+
+## 🌍 Connect With Me
+
+**GitHub:** https://github.com/vc-hiteshrudakiya
+**LinkedIn:** https://www.linkedin.com/in/hiteshrudakiya
